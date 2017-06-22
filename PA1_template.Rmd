@@ -6,7 +6,7 @@ date: "June 18, 2017"
 github repo with RMarkdown source code:
 https://github.com/stevestatham/RepData_PeerAssessment1  
 online rendered version on github pages:
-http://stevestatham/RepData_PeerAssessment1/PA1_template.html  
+http://github.com/stevestatham/RepData_PeerAssessment1/PA1_template.html  
 
 ## Loading and preprocessing the data
 Show any code that is needed to  
